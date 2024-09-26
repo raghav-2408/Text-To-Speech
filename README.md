@@ -1,0 +1,1 @@
+### Created a simple and intuitive GUI application in Python using tkinter, allowing users to easily convert text into speech. By integrating the gTTS library for text processing and pygame for audio playback. It will useful for content creators who want voice overs based on text !
